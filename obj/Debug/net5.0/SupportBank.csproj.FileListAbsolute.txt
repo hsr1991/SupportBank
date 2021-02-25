@@ -17,3 +17,5 @@ C:\Training\Week 6\SupportBank\obj\Debug\net5.0\SupportBank.genruntimeconfig.cac
 C:\Training\Week 6\SupportBank\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Training\Week 6\SupportBank\bin\Debug\net5.0\NLog.dll
 C:\Training\Week 6\SupportBank\obj\Debug\net5.0\SupportBank.csproj.CopyComplete
+C:\Training\Week 6\SupportBank\bin\Debug\net5.0\Json.Net.dll
+C:\Training\Week 6\SupportBank\bin\Debug\net5.0\Newtonsoft.Json.dll
